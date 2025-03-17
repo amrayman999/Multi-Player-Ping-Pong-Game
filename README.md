@@ -22,4 +22,4 @@ A simple Ping Pong game built using Python's `turtle` module. This project demon
 
 ## 🎥 Demo
 
-![Ping Pong Game Demo](https://user-images.githubusercontent.com/your-gif-url.gif)
+![Ping Pong Game Demo]([https://user-images.githubusercontent.com/your-gif-url.gif](https://github.com/amrayman999/Multi-Player-Ping-Pong-Game/blob/master/GamePlay.gif)
